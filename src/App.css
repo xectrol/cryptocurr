@@ -1,0 +1,17 @@
+.main-app nav {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center; 
+}
+.pagination li a {
+  cursor: pointer;
+}
+.pagination li a.active {
+  background-color: #f3f3f3;
+}
+.search-input {
+  flex: 2;
+}
+.makeStyles-formControl-1 {
+  flex: 1;
+}
